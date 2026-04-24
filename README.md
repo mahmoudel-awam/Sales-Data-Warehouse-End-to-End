@@ -57,7 +57,7 @@ Data Transformations
 - **Union All** → Merge data streams
 
 SSIS Data Flow
-![SSIS Flow](Screenshots/SSIS_dataflow.png)
+![SSIS Flow](Screenshots/dataflow.png)
 
 ---
 
