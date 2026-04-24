@@ -13,7 +13,7 @@ I implemented a **Star Schema** to optimize query performance. It consists of:
 - **Fact_Sales**: Central table containing measures (Quantity, Total Price).
 - **Dimension Tables**: DimProduct, DimCustomer, DimSalesMan, DimDate, and DimTime.
 
-![Star Schema](Screenshots\PI_ERD.png)
+![Star Schema](Screenshots\SSMS_ERD.png)
 
 ## 🔄 ETL Process (SSIS)
 The ETL pipeline handles data cleaning and historical tracking.
