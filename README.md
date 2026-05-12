@@ -82,7 +82,7 @@ DimTime
 
 Power BI Dashboard
 
-An interactive dashboard was created to visualize key business metrics.
+An interactive dashboard was created to visualize key business metrics..
 
 KPIs Included:
 - **Total Sales**
